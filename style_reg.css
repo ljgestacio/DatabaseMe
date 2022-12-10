@@ -14,9 +14,11 @@
 .feature {
     border: 5px;
     padding: 10px;
-    width: 7%;
-    text-align: center;
+    width: 10%;
     margin: auto;
+}
+.i {
+    align-self: auto;
 }
 .col {
     padding: 5px;
